@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "reproductor-lagalm": {
+      "hosting": {
+        "reproductor": [
+          "reproductor-lagalm"
+        ]
+      }
+    }
+  }
+}
